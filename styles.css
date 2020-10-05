@@ -100,7 +100,7 @@ form {
   background-color: rgb(170, 219, 250);
 }
 
-form > h4, fieldset, button {
+form > h4, fieldset, span {
   grid-column: 1/3;
 }
 
